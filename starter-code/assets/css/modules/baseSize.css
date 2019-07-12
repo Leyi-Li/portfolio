@@ -428,8 +428,8 @@ section, article {
     }
 
         .image.avatar48 img {
-            width: 48px;
-            height: 48px;
+            width: 60px;
+            height: 60px;
         }
 
     .image.fit {
@@ -905,11 +905,11 @@ button,
         }
 
         #main > section.two {
-            background-color: #e1f6ff;
+            background-color: rgb(219, 197, 240);
         }
 
         #main > section.three {
-            background-color: #ffffff;
+            background-color: #dfd2e4;
         }
 
         #main > section.four {
