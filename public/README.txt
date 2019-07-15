@@ -55,6 +55,16 @@ Estimate of time needed to complete: 2.5hr
 
 Start time: 10:31
 
+Finish time: 1:30
+
+Actual time needed to complete: 3hrs
+
+3. Add functionality
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
 Finish time: _____
 
 Actual time needed to complete: _____
